@@ -21,5 +21,8 @@
     <ClCompile Include="rewser.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="asd.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

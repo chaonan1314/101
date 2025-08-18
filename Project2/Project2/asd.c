@@ -16,11 +16,10 @@ int main(void) {
         printf("请输入你的猜测：");
         if (scanf("%d", &guess) != 1) {   // 防止输入非数字
             prin
-            printf("太大了！\n");
+                printf("太大了！\n");
         }
-        
-        }
-    }
 
-    return 0;
+    }
 }
+
+return 0;

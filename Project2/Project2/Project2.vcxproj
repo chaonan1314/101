@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="asd.c" />
     <ClCompile Include="rewser.c" />
     <ClCompile Include="源.c" />
   </ItemGroup>
