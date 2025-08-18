@@ -1,0 +1,11 @@
+# VS ºÍ Windows À¬»øÎÄ¼þ
+.vs/
+Debug/
+Release/
+*.exe
+*.ilk
+*.obj
+*.pdb
+*.idb
+*.ipch
+*.tlog
