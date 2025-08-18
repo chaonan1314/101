@@ -6,7 +6,7 @@
 int main(void) {
     int secret, guess, tries = 0;
 
-    /* 初始化随机数种子 */
+    /* 初始化随机数种tress子 */
     srand((unsigned)time(NULL));
     secret = rand() % 100 + 1;   // 1~100
 
